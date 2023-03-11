@@ -3,7 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://discord.gg/Enskuaw9nF" target="_blank">Shisoが管理している鯖</a></p>
-<p align="left">discordの名前<br>Shiso#3021</p>
+<p align="left">discordの名前<br>Shiso#3021<br>
+<a href="https://shisohomepage.shiso0923.repl.co" target="_blank">Shisoのホームページ</a>
+</p>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiso0923&layout=compact&count_private=true&show_icons=true&theme=onedark" />
